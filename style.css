@@ -1,0 +1,172 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: lato,sans-serif;
+    box-sizing: border-box;
+}
+body{
+    
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 40px;
+}
+nav ul il a{
+    color: black;
+    font-size: 25px;
+    margin-left: 20px;
+    font-family: lato,sans-serif;
+}
+nav h3{
+    font-size:35px;
+}
+nav h3 span{
+    font-size: 20px;
+    color:gray;
+    
+}
+
+.img img{
+    height: 450px;
+    max-width: 450px;
+    margin-left:600px;
+    margin-top: 70px;
+    background-color:gray;
+    border-radius: 71% 29% 100% 0% / 51% 18% 82% 49%  ;
+   
+
+}
+.text span{
+    color: gray;
+}
+.text{
+    position: relative;
+    bottom:300px ;
+    left: 70px;
+    font-size: 45px;
+}
+.about{
+    background-color: gray;
+}
+.about h2{
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 30px;
+    padding-top: 20px;
+}
+.text2 ol{
+   font-size: 25px;
+   letter-spacing: 5px;
+   padding-left: 20px;
+   padding-bottom: 40px;
+}
+.text2 ol span{
+    color: white;
+}
+.edu{
+    padding-bottom: 140px;
+}
+.edu h2{
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 30px;
+    padding-top: 20px;
+}
+
+.edu p{
+    padding-top: 30px;
+    font-size: 25px;
+    letter-spacing: 5px;
+    padding-left: 20px;
+    font-weight: 600;
+    margin-left: 20px;
+}
+.edu p span{
+    color:gray;
+}
+.exp{
+    background-color: gray;
+
+}
+.exp h2{
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 30px;
+    padding-top: 20px;
+}
+.exp p span{
+    color:white;
+}
+.exp p{
+    font-size: 25px;
+    letter-spacing: 5px;
+    padding-left: 20px;
+    font-weight: 600;
+    margin-left: 20px;
+    text-align: center;
+    padding: 120px 20px;
+    line-height: 65px;
+}
+.proj{
+    padding-bottom: 50px;
+}
+.proj h2{
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 30px;
+    padding-top: 20px;
+}
+.proj ol{
+    font-size: 25px;
+    letter-spacing: 5px;
+    padding-left: 20px;
+    font-weight: 600;
+    margin-left: 20px;
+    padding: 20px 20px;
+    padding-bottom: 20px;
+}
+.skill{
+    background-color: gray;
+}
+.skill h2{
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 30px;
+    padding-top: 20px;
+}
+.skill p{
+    font-size: 25px;
+    letter-spacing: 5px;
+    padding-left: 20px;
+    font-weight: 600;
+    margin-left: 20px;
+    padding: 20px 20px;
+    padding-bottom: 40px;
+    
+}
+.skill span{
+    color: white;
+}
+.cont h2{
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 30px;
+    padding-top: 20px;
+}
+.cont p{
+    font-size: 20px;
+    letter-spacing: 3px;
+    padding-left: 20px;
+    font-weight: 400;
+    margin-left: 20px;
+    padding: 20px 20px;
+    padding-bottom: 40px;
+    line-height: 50px;
+}
+.end p{
+    text-align: center;
+    font-weight: 500;
+    font-size: 30px;
+
+}
